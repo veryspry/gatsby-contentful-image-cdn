@@ -8,11 +8,11 @@
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
-    "gatsby": "image-service",
-    "gatsby-plugin-image": "image-service",
+    "gatsby": "image-cdn",
+    "gatsby-plugin-image": "image-cdn",
     "gatsby-plugin-react-helmet": "^5.0.0",
-    "gatsby-plugin-sharp": "image-service",
-    "gatsby-source-contentful": "image-service",
+    "gatsby-plugin-sharp": "image-cdn",
+    "gatsby-source-contentful": "image-cdn",
     "gatsby-transformer-remark": "^5.0.0",
     "gatsby-transformer-sharp": "image-service",
     "gh-pages": "^3.1.0",

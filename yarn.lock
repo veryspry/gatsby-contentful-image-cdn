@@ -3743,23 +3743,23 @@ babel-plugin-polyfill-regenerator@^0.3.0:
   dependencies:
     "@babel/helper-define-polyfill-provider" "^0.3.1"
 
-babel-plugin-remove-graphql-queries@4.8.0-alpha-image-service.35+a96fe2470a:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-4.8.0-alpha-image-service.35.tgz#45cbf9eb65650982811187517b78e17ee9b88995"
-  integrity sha512-3HqNYv2P9i5ROhfdyF9OWJ9sIiLF5WsMMU0fdaSSKYTurrya1MUw3kKdaTWqBKHCEEjK65JARpyOUhotFd72ZA==
+babel-plugin-remove-graphql-queries@4.8.0-alpha-image-service.54+d36d65f781:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/babel-plugin-remove-graphql-queries/-/babel-plugin-remove-graphql-queries-4.8.0-alpha-image-service.54.tgz#a88aa48cdb6f7d64847bfaacceea65a09b99bfb5"
+  integrity sha512-cUTewm/FTBAbt2c/nnqLDpUzzSdJmt053OWYhHsgC0TnbdI1I/6wmnlzXeqFiH8pvpiOThGqHGk/qOTD0bFx9g==
   dependencies:
     "@babel/runtime" "^7.15.4"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
 
 babel-plugin-transform-react-remove-prop-types@^0.4.24:
   version "0.4.24"
   resolved "https://registry.yarnpkg.com/babel-plugin-transform-react-remove-prop-types/-/babel-plugin-transform-react-remove-prop-types-0.4.24.tgz#f2edaf9b4c6a5fbe5c1d678bfb531078c1555f3a"
   integrity sha512-eqj0hVcJUR57/Ug2zE1Yswsw4LhuqqHhD+8v120T1cl3kjg76QwtyBrdIk4WVwK+lAhBJVYCd/v+4nc4y+8JsA==
 
-babel-preset-gatsby@2.8.0-alpha-image-service.35+a96fe2470a:
-  version "2.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/babel-preset-gatsby/-/babel-preset-gatsby-2.8.0-alpha-image-service.35.tgz#e3aa0c41bfc3b762c88dbb1f8db1dc422ab641d2"
-  integrity sha512-yP8hy7Z4D1IZF/VSRnKZACpQT4pY9xOmMku48X1cjMgl/2CXLBFlIhd5rbXEeuCgfydisaqe8wRC0qMEi7kCjQ==
+babel-preset-gatsby@2.8.0-alpha-image-service.54+d36d65f781:
+  version "2.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/babel-preset-gatsby/-/babel-preset-gatsby-2.8.0-alpha-image-service.54.tgz#fabec05c6fcf578c843526079aa08219194a657f"
+  integrity sha512-lXLi6fcoNM2He6DYAnjmhhUXIGQhMfHODSfp79zl8M8XCZqfcfnfd+7buHXhxyLOEA0SdNk9mRqZNR2HjDfKSg==
   dependencies:
     "@babel/plugin-proposal-class-properties" "^7.14.0"
     "@babel/plugin-proposal-nullish-coalescing-operator" "^7.14.5"
@@ -3774,7 +3774,7 @@ babel-preset-gatsby@2.8.0-alpha-image-service.35+a96fe2470a:
     babel-plugin-dynamic-import-node "^2.3.3"
     babel-plugin-macros "^2.8.0"
     babel-plugin-transform-react-remove-prop-types "^0.4.24"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     gatsby-legacy-polyfills "2.8.0-next.0"
 
 backo2@^1.0.2, backo2@~1.0.2:
@@ -5120,10 +5120,10 @@ crc@^3.4.4:
   dependencies:
     buffer "^5.1.0"
 
-create-gatsby@2.8.0-alpha-image-service.26+a96fe2470a:
-  version "2.8.0-alpha-image-service.26"
-  resolved "https://registry.yarnpkg.com/create-gatsby/-/create-gatsby-2.8.0-alpha-image-service.26.tgz#9c06812d0d819324b03bb223d16d5640ac32aab9"
-  integrity sha512-3Ls09sPmV8GpGhqh/f9a/VRKDSoTM5yxSDaJ9cqeQ3N8+P0brjW6/gHfA1F4y35AstaXOzUF2RRefhHIFv/BUg==
+create-gatsby@2.8.0-alpha-image-service.45+d36d65f781:
+  version "2.8.0-alpha-image-service.45"
+  resolved "https://registry.yarnpkg.com/create-gatsby/-/create-gatsby-2.8.0-alpha-image-service.45.tgz#62123d49e8c73eee104a14eec5103753e54106db"
+  integrity sha512-2sNNBYqopPAdEAB+z949qgGry3UlnHjorTY/USgJCjVWsV1FTsijwt3ms23gn8GYOSKgr8AdsUd32kHchXgfMQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
 
@@ -7205,10 +7205,10 @@ fuzzy@^0.1.3:
   resolved "https://registry.yarnpkg.com/fuzzy/-/fuzzy-0.1.3.tgz#4c76ec2ff0ac1a36a9dccf9a00df8623078d4ed8"
   integrity sha1-THbsL/CsGjap3M+aAN+GIweNTtg=
 
-gatsby-cli@4.8.0-alpha-image-service.26+a96fe2470a:
-  version "4.8.0-alpha-image-service.26"
-  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-4.8.0-alpha-image-service.26.tgz#9a06f95c7572be936242b73e1ad1c6beaecdc952"
-  integrity sha512-YRy3kwlWzH8VBxW0jNX+45BGibwK2jcUiNca/qgPGgkW0hmQipNqlIV0HwrP7hE747NbQYwrUWa37jfVILd20g==
+gatsby-cli@4.8.0-alpha-image-service.45+d36d65f781:
+  version "4.8.0-alpha-image-service.45"
+  resolved "https://registry.yarnpkg.com/gatsby-cli/-/gatsby-cli-4.8.0-alpha-image-service.45.tgz#5a6e717113d1ee22a42262c2e276991d9f3aaa15"
+  integrity sha512-U+1rDDZtU5jB6ib5V4zD3Dz8Oq4Yd4QimtRdLKdO1ATpovbM9LksYUQhlMpmgeg6QJ7ppmjMUHmiKuNV5k/hBg==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -7225,13 +7225,13 @@ gatsby-cli@4.8.0-alpha-image-service.26+a96fe2470a:
     common-tags "^1.8.2"
     configstore "^5.0.1"
     convert-hrtime "^3.0.0"
-    create-gatsby "2.8.0-alpha-image-service.26+a96fe2470a"
+    create-gatsby "2.8.0-alpha-image-service.45+d36d65f781"
     envinfo "^7.8.1"
     execa "^5.1.1"
     fs-exists-cached "^1.0.0"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-telemetry "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-telemetry "3.8.0-alpha-image-service.54+d36d65f781"
     hosted-git-info "^3.0.8"
     is-valid-path "^0.1.1"
     joi "^17.4.2"
@@ -7255,10 +7255,10 @@ gatsby-cli@4.8.0-alpha-image-service.26+a96fe2470a:
     yoga-layout-prebuilt "^1.10.0"
     yurnalist "^2.1.0"
 
-gatsby-core-utils@3.8.0-alpha-image-service.35+a96fe2470a:
-  version "3.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.8.0-alpha-image-service.35.tgz#eb45829bd7b614a271c87f8879e97a146d721865"
-  integrity sha512-ju1zSOYQSayKz0ZPawo2U6OF+z6kfOtaFPh1vnAE4+lP7R0gETS+4+U+aPgAsbOI4jR55EfyId7DQWnAa0ixdw==
+gatsby-core-utils@3.8.0-alpha-image-service.54+d36d65f781:
+  version "3.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-core-utils/-/gatsby-core-utils-3.8.0-alpha-image-service.54.tgz#fa7fdb2ce93a4b01a352db346cae2f9cdd328e34"
+  integrity sha512-vaSFuYuo/EZ6ZQKY6M22zUWhetB5HhmMK3dA1tPQknLghrWrr4Pmd1Y5y2osBFYHYO6fsPaWFqNRFFIDSYpwig==
   dependencies:
     "@babel/runtime" "^7.15.4"
     ci-info "2.0.0"
@@ -7309,63 +7309,63 @@ gatsby-legacy-polyfills@2.8.0-next.0:
     "@babel/runtime" "^7.15.4"
     core-js-compat "3.9.0"
 
-gatsby-link@4.8.0-alpha-image-service.35+a96fe2470a:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-4.8.0-alpha-image-service.35.tgz#60ee8e66408b3ea2d1092b44ba816f77826e4e2d"
-  integrity sha512-+P1ITle6qwwWxuzQ3YXoGxApTxIta1MxkGEIobrBPOs1QhnjGJi7feaRlCUUuGavUBPfz24Sfgxbl1vjCknIOw==
+gatsby-link@4.8.0-alpha-image-service.54+d36d65f781:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-link/-/gatsby-link-4.8.0-alpha-image-service.54.tgz#e56a20533aca9b256a242b110f6b50c294b182f6"
+  integrity sha512-iEA/cacMmEVIY1rk5XGOeP/+tghdYQ7LaT2kK1Qsc3iZ8IsBzaWpQmze63aE3wp7aPFcC90iWyM/nfiWOC6FoQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@types/reach__router" "^1.3.10"
-    gatsby-page-utils "2.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-page-utils "2.8.0-alpha-image-service.54+d36d65f781"
     prop-types "^15.7.2"
 
-gatsby-page-utils@2.8.0-alpha-image-service.35+a96fe2470a:
-  version "2.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-2.8.0-alpha-image-service.35.tgz#4c9a81995c8f1eaa25a39bbfb47ae6b8a224ac6d"
-  integrity sha512-x+XNDxr2TuG6xnsFo30VlZCnyO4hdZvmsk0CfcTFk1k2cBAVRlxOBiqjw1qP3OF2BwaNCU3Vv4xGu8dN51YuLg==
+gatsby-page-utils@2.8.0-alpha-image-service.54+d36d65f781:
+  version "2.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-page-utils/-/gatsby-page-utils-2.8.0-alpha-image-service.54.tgz#1e1b862ff43716488373a596ec5ccda945eddfa9"
+  integrity sha512-W3yKUyylWl0HywG3vFxTO9jxzrcTVX8SDnZfXZLXcPdMAehsy7Os099NR3qybzrL0i2TYhUhaBoMYDmR1iFr9g==
   dependencies:
     "@babel/runtime" "^7.15.4"
     bluebird "^3.7.2"
     chokidar "^3.5.2"
     fs-exists-cached "^1.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     glob "^7.2.0"
     lodash "^4.17.21"
     micromatch "^4.0.4"
 
-gatsby-plugin-image@image-service:
-  version "2.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-2.8.0-alpha-image-service.35.tgz#72a5f16a5d52ab6833fe2ee2410e15f62f816d73"
-  integrity sha512-K35IYwjfUWrUXcBIURJfxJo+ZeSjE+4314lLT31kHiSnfZB4uE2zdpozcD2QuF4azvYAWzg25faWGPZQhHys0A==
+gatsby-plugin-image@image-cdn:
+  version "2.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-image/-/gatsby-plugin-image-2.8.0-alpha-image-service.54.tgz#3ce7f177d1fbb8e032a7f18cb0f2350bc0a3315d"
+  integrity sha512-aZNg2v4hBS7y+4mTvkiasImj2HxTG0FIpjQQG9tpSjjGy5N7AjITZiiJbZLhWFO+HaLetcfSjR31lGSmUhJV8Q==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/parser" "^7.15.5"
     "@babel/runtime" "^7.15.4"
     "@babel/traverse" "^7.15.4"
     babel-jsx-utils "^1.1.0"
-    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.35+a96fe2470a"
+    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.54+d36d65f781"
     camelcase "^5.3.1"
     chokidar "^3.5.2"
     common-tags "^1.8.2"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     objectFitPolyfill "^2.3.5"
     prop-types "^15.7.2"
 
-gatsby-plugin-page-creator@4.8.0-alpha-image-service.35+a96fe2470a:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-4.8.0-alpha-image-service.35.tgz#d46cfaec3db6ccfc990d5954b3f4bfe13a41a425"
-  integrity sha512-2R6obTTDoVBN9DS9xtsh3RK6He7c4iyNW8f+4Tpt9IFTZYGN7w2b6VtKDV2mwWobgP4IiNSgfuLMcUT+c40eiw==
+gatsby-plugin-page-creator@4.8.0-alpha-image-service.54+d36d65f781:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-page-creator/-/gatsby-plugin-page-creator-4.8.0-alpha-image-service.54.tgz#d9c07a9fe282f8c92ebc327796efbf3637668d35"
+  integrity sha512-f0CtuKSKwq+gVWKXvg1CnV9QpWJxSEANGaRQUOl51eV1xLOS4272ccL9PKrvS3wt2THy8ZvaqjqYj5gsgLTyjQ==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@babel/traverse" "^7.15.4"
     "@sindresorhus/slugify" "^1.1.2"
     chokidar "^3.5.2"
     fs-exists-cached "^1.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-page-utils "2.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-utils "3.2.0-alpha-image-service.35+a96fe2470a"
-    gatsby-telemetry "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-page-utils "2.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-utils "3.2.0-alpha-image-service.54+d36d65f781"
+    gatsby-telemetry "3.8.0-alpha-image-service.54+d36d65f781"
     globby "^11.0.4"
     lodash "^4.17.21"
 
@@ -7376,10 +7376,10 @@ gatsby-plugin-react-helmet@^5.0.0:
   dependencies:
     "@babel/runtime" "^7.15.4"
 
-gatsby-plugin-sharp@image-service:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-4.8.0-alpha-image-service.35.tgz#c1a59b30e4fcbc35700d3fc977ff6a82fe6b57a7"
-  integrity sha512-7gEUwa8oUp3mSTHyPJhJnuxA/sXAv6AIppWI6I4qhdB1+OmH3dD+4Rc7UH2Gi1BHTAmbtxvNViZjtxb5V744tw==
+gatsby-plugin-sharp@image-cdn:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-sharp/-/gatsby-plugin-sharp-4.8.0-alpha-image-service.54.tgz#de435669e9ec2900c2f653cfcae32517c44ad04d"
+  integrity sha512-wkrBM0x7c+D00F0J92EHnSn/cBulBOKcE8PWz+dKxusVgw8OJozhu2+TcwBBmavYQkFH9EQZ8zlIPktHEvFwsA==
   dependencies:
     "@babel/runtime" "^7.15.4"
     async "^3.2.3"
@@ -7387,9 +7387,9 @@ gatsby-plugin-sharp@image-service:
     debug "^4.3.3"
     filenamify "^4.3.0"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-utils "3.2.0-alpha-image-service.35+a96fe2470a"
-    gatsby-telemetry "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-utils "3.2.0-alpha-image-service.54+d36d65f781"
+    gatsby-telemetry "3.8.0-alpha-image-service.54+d36d65f781"
     got "^11.8.3"
     lodash "^4.17.21"
     mini-svg-data-uri "^1.4.3"
@@ -7401,10 +7401,10 @@ gatsby-plugin-sharp@image-service:
     svgo "1.3.2"
     uuid "3.4.0"
 
-gatsby-plugin-typescript@4.8.0-alpha-image-service.35+a96fe2470a:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-4.8.0-alpha-image-service.35.tgz#4dd3787bf013472448596e103fac0dae0ed84590"
-  integrity sha512-dRLd8KW1W231NKQio5zb+OxbOLqNnuPoB5bE2x4WJu7x6kubxMRcS58ImY+qWwMAYO2JPhPBRF70nyJYXIwDYg==
+gatsby-plugin-typescript@4.8.0-alpha-image-service.54+d36d65f781:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-typescript/-/gatsby-plugin-typescript-4.8.0-alpha-image-service.54.tgz#e2c3113909aa5a70de7eaa12c7cdda9f6dc78639"
+  integrity sha512-g5lRSDowG0GwnnOlbTOtdDT+COlWhqidWLq0iIq0yLi8tl/TEXduEHUM8Ot52ycgyYA2l1nooADeXHZBrqV1ug==
   dependencies:
     "@babel/core" "^7.15.5"
     "@babel/plugin-proposal-nullish-coalescing-operator" "^7.14.5"
@@ -7412,16 +7412,17 @@ gatsby-plugin-typescript@4.8.0-alpha-image-service.35+a96fe2470a:
     "@babel/plugin-proposal-optional-chaining" "^7.14.5"
     "@babel/preset-typescript" "^7.15.0"
     "@babel/runtime" "^7.15.4"
-    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.35+a96fe2470a"
+    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.54+d36d65f781"
 
-gatsby-plugin-utils@3.2.0-alpha-image-service.35+a96fe2470a:
-  version "3.2.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-plugin-utils/-/gatsby-plugin-utils-3.2.0-alpha-image-service.35.tgz#5176aa30a13cebde516fb66638ea44130363eeb1"
-  integrity sha512-6uPizedl8GrBUjfOihpDFs7E/LJTstwvOGK/EB+iVAbi7tWH7BzJLw/4+juxxC5Mq0kbCyRBJt+I44A2Q+7bEA==
+gatsby-plugin-utils@3.2.0-alpha-image-service.54+d36d65f781:
+  version "3.2.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-plugin-utils/-/gatsby-plugin-utils-3.2.0-alpha-image-service.54.tgz#e036c72ec2a71e1861bb056e23510544393bfd3d"
+  integrity sha512-u5BOSiNQ/H36XZ9U0yyU+BGqJWwV2c3ev9joCeTaVovxivumqIZG7sh48HXnaAFxLKatMd+2cM9Q0vzN2415Ng==
   dependencies:
     "@babel/runtime" "^7.15.4"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     joi "^17.4.2"
+    mime "^3.0.0"
 
 gatsby-react-router-scroll@5.8.0-next.0:
   version "5.8.0-next.0"
@@ -7439,10 +7440,10 @@ gatsby-sharp@0.2.0-next.0:
     "@types/sharp" "^0.29.5"
     sharp "^0.29.3"
 
-gatsby-source-contentful@image-service:
-  version "7.6.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-source-contentful/-/gatsby-source-contentful-7.6.0-alpha-image-service.35.tgz#1631b1b18fa79b75891f055fd69ac5006d3e3cdb"
-  integrity sha512-w2AQwQKzy1ddJDjmjrfGwuzgoi0Pqz3WPl01mW61y1DG9K7C0Fu2fQpUllEJmWtoJpAZo7GPdsppznNxWxgw1A==
+gatsby-source-contentful@image-cdn:
+  version "7.6.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-source-contentful/-/gatsby-source-contentful-7.6.0-alpha-image-service.54.tgz#cb460086471e0e83ba2279c6b71158ff139c5b51"
+  integrity sha512-pnP2AAomMwDb6juPK369TOEwgry7urls40ON3K2K0c6MhYfk6bmeFWxqOc5aAK27GslDxJ+daA2H0oAbgEsKOg==
   dependencies:
     "@babel/runtime" "^7.15.4"
     "@contentful/rich-text-react-renderer" "^14.1.3"
@@ -7454,9 +7455,9 @@ gatsby-source-contentful@image-service:
     common-tags "^1.8.2"
     contentful "^8.5.8"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-utils "3.2.0-alpha-image-service.35+a96fe2470a"
-    gatsby-source-filesystem "4.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-utils "3.2.0-alpha-image-service.54+d36d65f781"
+    gatsby-source-filesystem "4.8.0-alpha-image-service.54+d36d65f781"
     is-online "^8.5.1"
     json-stringify-safe "^5.0.1"
     lodash "^4.17.21"
@@ -7465,16 +7466,16 @@ gatsby-source-contentful@image-service:
     retry-axios "^2.6.0"
     semver "^7.3.5"
 
-gatsby-source-filesystem@4.8.0-alpha-image-service.35+a96fe2470a:
-  version "4.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.8.0-alpha-image-service.35.tgz#5e14024890c119629eec12f18b06617cf694f3a8"
-  integrity sha512-T1tlLy4qf9Y1sd23pp27tw3aFA+VKpxruAZDPRVrCxrrlHtkxQ2yu7T9QDytsF7epAJLUfYyQu95/GbCcjoArg==
+gatsby-source-filesystem@4.8.0-alpha-image-service.54+d36d65f781:
+  version "4.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-source-filesystem/-/gatsby-source-filesystem-4.8.0-alpha-image-service.54.tgz#6e7722e87862dda5da871b7da31cb242a6f93f8e"
+  integrity sha512-ay58GKL/rkTHgEkrvLBlOE/K49YZt6nwaDPwM8PktGECfS55l5P720A7W1RM27oB1+tiZ6xO4yyNFB2DhhI/Hw==
   dependencies:
     "@babel/runtime" "^7.15.4"
     chokidar "^3.5.2"
     file-type "^16.5.3"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     got "^9.6.0"
     md5-file "^5.0.0"
     mime "^2.5.2"
@@ -7483,10 +7484,10 @@ gatsby-source-filesystem@4.8.0-alpha-image-service.35+a96fe2470a:
     valid-url "^1.0.9"
     xstate "^4.26.1"
 
-gatsby-telemetry@3.8.0-alpha-image-service.35+a96fe2470a:
-  version "3.8.0-alpha-image-service.35"
-  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-3.8.0-alpha-image-service.35.tgz#ba34b7f08cb5924cfc4bfb10d1a489611cf08ac6"
-  integrity sha512-v1HjFto6G0SbgseMvbtC7NZqQaJg2zxuAkWSzlvuBjt/xFO6yQGl7uE8eKb0YIVQxu0wgVjtd1JkHXBM7sOyeQ==
+gatsby-telemetry@3.8.0-alpha-image-service.54+d36d65f781:
+  version "3.8.0-alpha-image-service.54"
+  resolved "https://registry.yarnpkg.com/gatsby-telemetry/-/gatsby-telemetry-3.8.0-alpha-image-service.54.tgz#ee849c919a855b6f263e2d3d1f464742e82d6ccc"
+  integrity sha512-ShvVIU1AbRTtPLjZZDNZ5Xvw029mlZw83U9INK73sde27iHJnAnCSpRV76ojLje23mOmbfkXS5eD5NyrqqTgPQ==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/runtime" "^7.15.4"
@@ -7496,7 +7497,7 @@ gatsby-telemetry@3.8.0-alpha-image-service.35+a96fe2470a:
     boxen "^4.2.0"
     configstore "^5.0.1"
     fs-extra "^10.0.0"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     git-up "^4.0.5"
     is-docker "^2.2.1"
     lodash "^4.17.21"
@@ -7552,10 +7553,10 @@ gatsby-worker@1.8.0-next.0:
     "@babel/core" "^7.15.5"
     "@babel/runtime" "^7.15.4"
 
-gatsby@image-service:
-  version "4.8.0-alpha-image-service.26"
-  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.8.0-alpha-image-service.26.tgz#091f8551e10ce2a5fed1f5d10a36374618142f70"
-  integrity sha512-HMoOnSoUhe4Gk//2yMf1NYqriv0s3D4YxU0ys5KEnOvdZNXulG5hFU63Tg7LpY1fNb+Gou4lBnp13DQOoLDznA==
+gatsby@image-cdn:
+  version "4.8.0-alpha-image-service.45"
+  resolved "https://registry.yarnpkg.com/gatsby/-/gatsby-4.8.0-alpha-image-service.45.tgz#314768de1b4817f891fa9299b86770912e48a6eb"
+  integrity sha512-Pf1pS5fVLdAdmTv5z/bqQEPRcLVEABHQBlhaEUBjf9LeDO6zxfVWVXekxlLBhLofQquTmju9VQy0ebOjFSNNfw==
   dependencies:
     "@babel/code-frame" "^7.14.0"
     "@babel/core" "^7.15.5"
@@ -7581,8 +7582,8 @@ gatsby@image-service:
     babel-plugin-add-module-exports "^1.0.4"
     babel-plugin-dynamic-import-node "^2.3.3"
     babel-plugin-lodash "^3.3.4"
-    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.35+a96fe2470a"
-    babel-preset-gatsby "2.8.0-alpha-image-service.35+a96fe2470a"
+    babel-plugin-remove-graphql-queries "4.8.0-alpha-image-service.54+d36d65f781"
+    babel-preset-gatsby "2.8.0-alpha-image-service.54+d36d65f781"
     better-opn "^2.1.1"
     bluebird "^3.7.2"
     body-parser "^1.19.0"
@@ -7625,17 +7626,17 @@ gatsby@image-service:
     find-cache-dir "^3.3.2"
     fs-exists-cached "1.0.0"
     fs-extra "^10.0.0"
-    gatsby-cli "4.8.0-alpha-image-service.26+a96fe2470a"
-    gatsby-core-utils "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-cli "4.8.0-alpha-image-service.45+d36d65f781"
+    gatsby-core-utils "3.8.0-alpha-image-service.54+d36d65f781"
     gatsby-graphiql-explorer "2.8.0-next.0"
     gatsby-legacy-polyfills "2.8.0-next.0"
-    gatsby-link "4.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-page-utils "2.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-page-creator "4.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-typescript "4.8.0-alpha-image-service.35+a96fe2470a"
-    gatsby-plugin-utils "3.2.0-alpha-image-service.35+a96fe2470a"
+    gatsby-link "4.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-page-utils "2.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-page-creator "4.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-typescript "4.8.0-alpha-image-service.54+d36d65f781"
+    gatsby-plugin-utils "3.2.0-alpha-image-service.54+d36d65f781"
     gatsby-react-router-scroll "5.8.0-next.0"
-    gatsby-telemetry "3.8.0-alpha-image-service.35+a96fe2470a"
+    gatsby-telemetry "3.8.0-alpha-image-service.54+d36d65f781"
     gatsby-worker "1.8.0-next.0"
     glob "^7.2.0"
     got "^11.8.2"
@@ -10640,6 +10641,11 @@ mime@^2.4.4, mime@^2.5.2:
   version "2.6.0"
   resolved "https://registry.yarnpkg.com/mime/-/mime-2.6.0.tgz#a2a682a95cd4d0cb1d6257e28f83da7e35800367"
   integrity sha512-USPkMeET31rOMiarsBNIHZKLGgvKc/LrjofAnBlOttf5ajRvqiRA8QsenbcooctK6d6Ts6aqZXBA+XbkKthiQg==
+
+mime@^3.0.0:
+  version "3.0.0"
+  resolved "https://registry.yarnpkg.com/mime/-/mime-3.0.0.tgz#b374550dca3a0c18443b0c950a6a58f1931cf7a7"
+  integrity sha512-jSCU7/VB1loIWBZe14aEYHU/+1UMEHoaO7qxCOVJOw9GgH72VAWppxNcjU+x9a2k3GSIBXNKxXQFqRvvZ7vr3A==
 
 mimic-fn@^1.0.0:
   version "1.2.0"
