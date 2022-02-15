@@ -8,7 +8,7 @@
     "url": "https://github.com/contentful/starter-gatsby-blog/issues"
   },
   "dependencies": {
-    "gatsby": "image-cdn",
+    "gatsby": "4.8.0-alpha-image-service.45",
     "gatsby-plugin-image": "image-cdn",
     "gatsby-plugin-react-helmet": "^5.0.0",
     "gatsby-plugin-sharp": "image-cdn",
